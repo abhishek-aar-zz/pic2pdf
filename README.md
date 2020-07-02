@@ -1,20 +1,23 @@
 # All-Photo-Size-Builder
-If you want to duplicate your photo on your desired paper, which is later used to print - download the exe file now and use it
-
+If you want to duplicate your photo on your desired paper, which is later used to print - download the exe file now and use it<br>
 __Written in: Python 3__<br>
+##### ___DISCLAIMER___
+* *This project is done only for __educational purpose__*
+* *If you are interested in creating any web scraper, you can learn through my projects*
+* *I am __not responsible__ for any future __controversies/copyright issues__*
+* *Making use of my project for any __illegal activities__ does not count as my responsibility*
+## Instruction Video on Youtube.
+###### Shall be released soon.
 
-Download the zip file which contains .exe file<br>
-
-<br>
-### Disclaimer:
-It can be slow when you open the application
-
+### Info
+* .exe file can be downloaded from [here](https://1drv.ms/u/s!Ai3Vk0NkE8Ww5Ep9yAK3jAspGAiT?e=C1p0qM "Windows executable")<br>
+* Snapshot of the application home
+![screenshot_1](https://github.com/arg-z/All-Photo-Size-Builder/blob/master/snapshots/snapv1.0.PNG?raw=true)
+### Note:
+It can be slow when you open the application<br>
 ### Source Code:
-Inside the source_code folder
-
-
-
+In the same repository
 ## Version History
-v1.0 : initial version
-
+__v1.0__ : initial version
 #### Thank You
+
