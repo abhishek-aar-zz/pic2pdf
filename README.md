@@ -10,7 +10,7 @@ __Written in: Python 3__<br>
 ###### Shall be released soon.
 
 ### Info
-* .exe file can be downloaded from [here](https://1drv.ms/u/s!Ai3Vk0NkE8Ww5EojT65yUh9i-x0d?e=jssCbF "Windows executable")<br>
+* .exe file can be downloaded from [here](https://github.com/abhishek-aar/pic2pdf/raw/master/final_exe/pic2pdf.exe "Windows executable")<br>
 * Snapshot of the application home
 ![screenshot_1](https://github.com/arg-z/All-Photo-Size-Builder/blob/master/snapshots/snapv1.0.PNG?raw=true)
 ### Note:
