@@ -1,4 +1,4 @@
-# All-Photo-Size-Builder
+#  Pic 2 Pdf - Any size photo builder
 If you want to duplicate your photo on your desired paper, which is later used to print - download the exe file now and use it<br>
 __Written in: Python 3__<br>
 ##### ___DISCLAIMER___
