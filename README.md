@@ -15,7 +15,7 @@ __Written in: Python 3__<br>
 * We are currently not supporting for executable file. The source code should be downloaded and used using command line.
 * OS Requirement: tested on Windows 10
 * Snapshot of the application home<br>
-![screenshot_1](https://github.com/abhishek-aar/pic2pdf/blob/master/snapshots/sanpv20.1.24.PNG?raw=true)
+![screenshot_1](https://github.com/abhishek-aar/pic2pdf/blob/master/snapshots/sanpv21.1.24.PNG?raw=true)
 ## Usage
 #### Executable File (.exe) for Windows
 * Recent version doesn't support executable file
