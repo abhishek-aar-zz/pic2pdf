@@ -60,12 +60,12 @@ class State:
         self.photo_type = ""
         self.selective_paste_flag = False
         self.versionList = [
-            ["20.1.7", "Initial Version"],
-            ["20.1.16", "Code reformat"],
-            ["20.1.18", "Code reformat"],
-            ["20.1.20", "Code reformat"],
-            ["20.1.23", "Code reformat"],
-            ["20.1.24", "Added Selective Paste"],
+            ["21.1.7", "Initial Version"],
+            ["21.1.16", "Code reformat"],
+            ["21.1.18", "Code reformat"],
+            ["21.1.20", "Code reformat"],
+            ["21.1.23", "Code reformat"],
+            ["21.1.24", "Added Selective Paste"],
         ]
         self.copies = []
         self.customCopies = 0
