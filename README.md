@@ -23,7 +23,7 @@ __Written in: Python 3__<br>
 #### Source Code + Command Line Call = GUI
 1. Download the source code named "pic2pdf.py" into a directory, say "sample_dir"
 1. Open the command prompt inside "sample_dir"
-1. Type in "python pic2pdf.py" and hit enter
+1. Type in "`python pic2pdf.py`" and hit enter
 1. A GUI must pop up, use it.
 1. For the verbose, watch command line you opened to start GUI.
 
